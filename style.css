@@ -265,11 +265,19 @@ header .navbar ul li a {
 
 
 
-.F h1 {
+.F h2 {
 
-    margin-top: 100px;
-    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    /* text-align: center; */
 
+    margin-bottom: 10px;
+
+}
+
+.F h5 {
+    margin-bottom: 20px;
+    font-size: 17px;
 }
 
 
